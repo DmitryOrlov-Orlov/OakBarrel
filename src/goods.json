@@ -1,14 +1,50 @@
 [
     {
+        "id": 1,
         "articul": "284s",
         "title": "Дубовая бочка 3 литра",
         "cost": 1500,
-        "image": "https://cdn0.iconfinder.com/data/icons/fruity-3/512/Apple-64.png"
+        "image": "https://cdn0.iconfinder.com/data/icons/fruity-3/512/Apple-64.png",
+        "hit": true
     },
     {
+        "id": 2,
         "articul": "2s8d",
         "title": "Дубовая бочка 5 литров",
         "cost": 3000,
-        "image": "https://cdn0.iconfinder.com/data/icons/fruity-3/512/Lemon-64.png"
+        "image": "https://cdn0.iconfinder.com/data/icons/fruity-3/512/Lemon-64.png",
+        "hit": true
+    },
+    {
+        "id": 3,
+        "articul": "3s8d",
+        "title": "Дубовая бочка 7 литров",
+        "cost": 3000,
+        "image": "https://cdn0.iconfinder.com/data/icons/fruity-3/512/Lemon-64.png",
+        "hit": true
+    },
+    {
+        "id": 4,
+        "articul": "4s8d",
+        "title": "Дубовая бочка 10 литров",
+        "cost": 3000,
+        "image": "https://cdn0.iconfinder.com/data/icons/fruity-3/512/Lemon-64.png",
+        "hit": false
+    },
+    {
+        "id": 5,
+        "articul": "5s8d",
+        "title": "Дубовая бочка 15 литров",
+        "cost": 3000,
+        "image": "https://cdn0.iconfinder.com/data/icons/fruity-3/512/Lemon-64.png",
+        "hit": false
+    },
+    {
+        "id": 6,
+        "articul": "6s8d",
+        "title": "Дубовая бочка 20 литров",
+        "cost": 3000,
+        "image": "https://cdn0.iconfinder.com/data/icons/fruity-3/512/Lemon-64.png",
+        "hit": false
     }
 ]

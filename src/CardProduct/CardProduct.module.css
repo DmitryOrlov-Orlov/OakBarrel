@@ -1,0 +1,42 @@
+.CardProduct {
+  width: 270px;
+  text-transform: uppercase;
+  border: 1px solid red;
+  background: seagreen;
+  margin: 0 5px 40px 5px;
+}
+
+.image {
+  width: 100%;
+  background: chartreuse;
+  height: 200px;
+}
+
+.CardProduct h5 {
+  font-size: 16px;
+  text-align: center;
+  margin: 10px 0;
+}
+
+.CardProduct p {
+  font-size: 30px;
+  font-weight: bold;
+  text-transform: uppercase;
+  text-align: center;
+  margin: 10px 0;
+}
+
+.CardProduct button {
+  display: block;
+  align-items: center;
+  justify-content: center;
+  width: 200px;
+  height: 40px;
+  margin: 10px auto;
+  text-transform: uppercase;
+  background: #02d41e;
+  color: #ffffff;
+  outline: none;
+  border: none;
+  cursor: pointer;
+}
