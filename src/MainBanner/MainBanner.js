@@ -3,7 +3,7 @@ import classes from './MainBanner.module.css'
 function MainBanner() {
   return (
     <div className={classes.MainBanner}>
-      <p> Бомбически Крутые Дубовые Бочки</p>
+      <p> Дубовые бочки и Кашпо </p>
     </div>
   )
 }
