@@ -1,0 +1,12 @@
+.Catalog {
+  max-width: 1140px;
+  margin: 0 auto;
+  padding: 30px 0 0 30px;
+  font-size: 16px;
+  background: rgb(226, 195, 20);
+}
+
+.Catalog h1 {
+  font-size: 25px;
+  margin-bottom: 20px;
+}

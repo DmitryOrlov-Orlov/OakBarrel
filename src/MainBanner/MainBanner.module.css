@@ -1,0 +1,14 @@
+.MainBanner {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 250px;
+  background: url(../img//MainBanner/1.jpg) no-repeat;
+  background-size: 100%;
+}
+
+.MainBanner p {
+  font-size: 50px;
+  color: #ffffff;
+  text-align: center;
+}
