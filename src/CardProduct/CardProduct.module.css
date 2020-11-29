@@ -1,14 +1,13 @@
 .CardProduct {
-  width: 270px;
+  width: 250px;
   text-transform: uppercase;
-  border: 1px solid red;
-  background: seagreen;
-  margin: 0 5px 40px 5px;
+  border: 2px solid #000000;
+  margin: 0 15px 30px 15px;
 }
 
 .image {
   width: 100%;
-  background: chartreuse;
+  background: #5f5f5f;
   height: 200px;
 }
 

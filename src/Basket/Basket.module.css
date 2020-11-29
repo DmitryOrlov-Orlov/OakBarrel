@@ -1,0 +1,42 @@
+.Basket {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-width: 70px;
+  height: 35px;
+  padding: 0 5px;
+  margin: 0 5px;
+  border: 2px solid red;
+  background: #ffffff;
+  color: #000000;
+  border-radius: 5px;
+  cursor: pointer;
+}
+p {
+  font-weight: bold;
+}
+
+.img {
+  display: block;
+  width: 35px;
+  height: 35px;
+  background-image: url(.././img/Basket/basket.svg);
+  background-size: 100%;
+  background-repeat: no-repeat;
+  border: none;
+}
+
+.count {
+  display: block;
+  position: relative;
+  top: -9px;
+  width: 15px;
+  left: 35px;
+  text-align: center;
+  height: 15px;
+  background: red;
+  color: #ffffff;
+  border-radius: 50%;
+  font-weight: 700;
+  font-size: 13px;
+}

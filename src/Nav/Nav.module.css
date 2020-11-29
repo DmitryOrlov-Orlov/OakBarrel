@@ -1,7 +1,7 @@
 .Nav {
   display: flex;
   justify-content: space-between;
-  width: 78%;
+  width: 70%;
 }
 
 .Nav p,

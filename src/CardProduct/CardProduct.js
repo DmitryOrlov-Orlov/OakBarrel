@@ -7,7 +7,7 @@ function CardProduct(props) {
       <div className={classes.image}><img src={props.image} alt="" /></div>
       <h5>{props.title}</h5>
       <p>{props.cost} &#8381;</p>
-      <button>В корзину</button>
+      <button data-key={props.articul}>В корзину</button>
 
     </div>
   )
